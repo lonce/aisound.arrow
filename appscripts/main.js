@@ -2,7 +2,7 @@
 A Demo of using an aiSound with parameters tied to an animated graphical object.
 */
 
-import sndFactory from 'https://aisound.cloud/aiSounds/fm2.js'
+import sndFactory from 'https://aisound.cloud/aiSounds/swish.js'
 //import sndFactory from 'http://localhost:8000/aiSounds/swish.js'
 
 var snd;
